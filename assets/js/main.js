@@ -1,3 +1,7 @@
+// require('dotenv').config();
+
+//const api_key = process.env.API_KEY;
+
 import apiKey from './keys.js';
 
 const apiCountryURL = "https://countryflagsapi.com/png/";
